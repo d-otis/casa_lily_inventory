@@ -2,7 +2,7 @@
 ruby '2.6.1'
 source "https://rubygems.org"
 
-gem 'activerecord', '~>5.2.4.3', :require => 'active_record'
+gem 'activerecord', '~>5.2.4.5', :require => 'active_record'
 gem 'sinatra-activerecord', :require => 'sinatra/activerecord'
 # gem 'sqlite3', '~>1.3.6'
 gem 'sinatra'
